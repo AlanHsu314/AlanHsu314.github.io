@@ -1,0 +1,7 @@
+_bibliography to edit papers
+_news to add enumerated announcements
+_pages has most .md files to update (nav and nav_order for showing them on top)
+_posts for dated posts
+_projects for enumerated projects
+assets/img for images
+_config.yml for blog name (empty diables it)
