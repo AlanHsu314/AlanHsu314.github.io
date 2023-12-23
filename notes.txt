@@ -5,3 +5,4 @@ _posts for dated posts
 _projects for enumerated projects
 assets/img for images
 _config.yml for blog name (empty diables it)
+_data/cv.yml for cv website data
