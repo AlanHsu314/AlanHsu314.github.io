@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /courses/
-title: coursework
+title: Coursework
 description: Selected coursework during my undergraduate and graduate studies, roughly organized by topic
 nav: true
 nav_order: 2

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Hobbies
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my various random hobbies and projects since childhood. This is mostly an organizational page for myself.
 nav: false
 nav_order: 4
 display_categories: [work, fun]
