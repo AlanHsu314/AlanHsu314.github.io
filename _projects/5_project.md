@@ -8,6 +8,8 @@ importance: 4
 category: fun
 ---
 
+*"Don't be sorry, be better."* --Kratos
+
 A collection of different video games I have played. Will probably end up being a dump of my genshin speedruns and valorant clutch clips.
 
 For example, these dmg/screenshot builds:
@@ -17,7 +19,7 @@ For example, these dmg/screenshot builds:
         {% include figure.html path="assets/img/genshin/navia_ninianne.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
-        navia C6R1 gunbrella, 2pc/2pc atk, noblesse bennett, ttds mona, tenacity zl (+geo res), no food.
+        navia C6R1 gunbrella, 2pc/2pc atk, noblesse mistsplitter bennett, ttds + omen mona, tenacity fav zl, no food.
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/genshin/hutao_mil.png" title="example image" class="img-fluid rounded z-depth-1" %}
