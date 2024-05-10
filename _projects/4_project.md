@@ -12,6 +12,6 @@ category: fun
 
 Below are links to my (relatively up-to-date) collection of shows watched. When I get a chance I'll rate them.
 
-[List](https://myanimelist.net/animelist/Pilingual) of anime (and manga/manhwa) 
+❃ [List](https://myanimelist.net/animelist/Pilingual) of anime (and manga/manhwa) 
 
-[List](https://mydramalist.com/dramalist/Pilingual) of kdramas 
+❃ [List](https://mydramalist.com/dramalist/Pilingual) of kdramas 

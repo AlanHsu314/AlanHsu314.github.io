@@ -10,6 +10,7 @@ nav_order: 2
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title"> Astrophysics</h5>
+    <p class="text-start"> ❃ (ASTRO 202a) Extragalactic Astronomy and Cosmology I </p>
     <p class="text-start"> ❃ (ASTRO 200) Radiative Processes in Astrophysics </p>
   </div>
 </div>
@@ -54,6 +55,8 @@ nav_order: 2
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title"> Computer Science</h5>
+    <p class="text-start"> ❃ (ASTRO 205) Machine Learning for Astrophysicists </p>
+    <p class="text-start"> ❃ (APCOMP 297r) Computational Science and Engineering Capstone Project</p>
     <p class="text-start"> ❃ (10-701) Introduction to Machine Learning </p>
     <p class="text-start"> ❃ (15-463) Computational Photography </p>
     <p class="text-start"> ❃ (15-281) Artificial Intelligence: Representation and Problem Solving </p>
