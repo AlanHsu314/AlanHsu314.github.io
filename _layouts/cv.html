@@ -33,6 +33,15 @@ layout: default
           </div>
         </div>
       {% endfor %}
+      {% if page.cv_pubs %}
+        <a class="anchor" id="publications"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Publications</h3>
+          <div class="publications" style="margin-top: 0;">
+            {% bibliography --query @*[selected=true]* %}
+          </div>
+        </div>
+      {% endif %}
       </div>
   </article>
 

@@ -4,7 +4,7 @@ title: Hobbies
 permalink: /projects/
 description: A collection of my various random hobbies and projects since childhood. This is mostly an organizational page for myself.
 nav: false
-nav_order: 4
+nav_order: 100
 display_categories: [work, fun]
 horizontal: false
 ---
