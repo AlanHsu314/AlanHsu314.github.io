@@ -14,4 +14,4 @@ Below are links to my (relatively up-to-date) collection of shows watched. When 
 
 ❃ [List](https://myanimelist.net/animelist/Pilingual) of anime (and manga/manhwa) 
 
-❃ [List](https://mydramalist.com/dramalist/Pilingual) of kdramas 
+❃ [List](https://mydramalist.com/dramalist/Pilingual) of dramas 

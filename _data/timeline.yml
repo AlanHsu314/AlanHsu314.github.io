@@ -1,0 +1,153 @@
+# _data/timeline.yml
+# One block per event. Order here doesn't matter — the page sorts by date (newest first).
+# Fields:
+#   date        YYYY-MM-DD (required). The day can be a placeholder; the page shows only "Mon YYYY".
+#   category    (required) any label — it automatically becomes a filter pill.
+#   title       (required)
+#   location    (optional)
+#   link        (optional) external URL, or an internal one like /blog/2026/my-post/
+#   description (optional) one line
+
+
+# ---- conferences/academic meetings ----
+- date: 2026-07-09
+  category: conference
+  title: SPIE Astronomical Telescopes + Instrumentation
+  location: Copenhagen, Denmark
+  link: https://spie.org/astronomical-telescopes-instrumentation/presentation/A-balloon-borne-infrared-coronagraph-and-spectropolarimeter-for-magnetic-field/14149-67
+  description: (First-ever) conference talk on CORSAIR qualification flight + poster on polarimeter calibration.
+
+- date: 2026-06-28
+  category: conference
+  title: SHINE
+  location: Madison, WI
+  link: https://helioshine.org/calibrating-the-corsair-polarimeter-for-its-qualification-flight/
+  description: Poster on CORSAIR qualification flight polarimeter calibration.
+
+- date: 2026-02-11
+  category: conference
+  title: Colorado Collaboration Visit
+  location: Boulder, CO
+  description: Visited HCO, CU Boulder, NSO, and SwRI, gave talks on CORSAIR polarimeter calibration
+
+- date: 2025-08-01
+  category: conference
+  title: SPIE Optics + Photonics
+  location: San Diego, CA
+  link: https://spie.org/optics-photonics/presentation/A-probabilistic-calibration-procedure-for-the-CORSAIR-polarimeter/13615-36
+  description: Poster on CORSAIR polarimeter calibration
+
+- date: 2025-06-23
+  category: conference
+  title: SHINE
+  location: Charleston, South Carolina
+  link: https://helioshine.org/a-probabilistic-calibration-procedure-for-the-corsair-polarimeter/
+  description: Poster on CORSAIR polarimeter calibration
+
+- date: 2024-07-23
+  category: conference
+  title: HINODE-17/IRIS-15/SPHERE-3
+  location: Bozeman, MT
+  link: https://solar.physics.montana.edu/h17_i14_s3/
+  description: Poster on Early development of CORSAIR polarimeter calibration
+
+- date: 2024-06-16
+  category: conference
+  title: SPIE Astronomical Telescopes + Instrumentation
+  location: Yokohama, Japan
+  description: Attendee, first academic conference
+
+- date: 2024-05-28
+  category: conference
+  title: Arizona Telescope Trip 
+  location: Tucson, AZ
+  description: Class Field Trip for Observational Astronomy 
+
+# --- personal academic milestones ---
+- date: 2026-05-28
+  category: milestone
+  title: Master in Science in Applied Mathematics at Harvard
+  location: Cambridge, MA
+
+- date: 2026-03-09
+  category: milestone
+  title: CORSAIR polarimeter calibration paper published in Solar Physics
+  link: /publications/
+
+- date: 2025-07-08
+  category: milestone
+  title: First paper and first first-author paper in The Open Journal of Astrophysics
+  link: /publications/
+
+- date: 2025-04-11
+  category: milestone
+  title: Passed Research Exam, became PhD Candidate
+
+- date: 2023-09-05
+  category: milestone
+  title: Started PhD in Astronomy at Harvard
+  location: Cambridge, MA
+
+- date: 2023-05-14
+  category: milestone
+  title: Graduated with B.S. in Physics and Robotics at CMU
+  location: Cambridge, MA
+
+# ---- personal events ----
+- date: 2026-08-07
+  category: personal
+  title: FAN EXPO Boston
+  location: Boston, MA
+  description: Helped organize the Astronomy Outreach Booth
+
+- date: 2026-04-03
+  category: personal
+  title: Anime Boston
+  location: Boston, MA
+
+- date: 2026-02-18
+  category: personal
+  title: Violet Evergarden Concert USA Tour
+  location: New York City, NY
+
+- date: 2025-08-21
+  category: personal
+  title: Anime NYC
+  location: New York City, NY
+
+- date: 2025-05-23
+  category: personal
+  title: Anime Boston
+  location: Boston, MA
+
+- date: 2024-08-23
+  category: personal
+  title: Anime NYC
+  location: New York City, NY
+
+- date: 2024-03-29
+  category: personal
+  title: Anime Boston
+  location: Boston, MA
+
+# ---- personal travel ----
+- date: 2026-07-11
+  category: personal
+  title: Sicily Trip
+  location: Sicily, Italy
+
+- date: 2025-07-15
+  category: personal
+  title: Taiwan Family Trip
+  location: Taiwan
+
+- date: 2025-01-01
+  category: personal
+  title: Japan Trip
+  location: Tokyo, Kyoto, Osaka, Hokkaido
+
+- date: 2023-05-15
+  category: personal
+  title: Japan Trip
+  location: Tokyo, Kyoto, Osaka
+  # link: /blog/2025/my-trip/    # optional: link to a full blog post

@@ -48,3 +48,12 @@ nav_order: 2
     <a href="https://www.youtube.com/watch?v=NdhWnjGTFbk">[video]</a>
   </li>
 </ul>
+
+<h3>2024</h3>
+<ul class="talks-list">
+  <li>
+    <strong>Poster</strong> &mdash; Bilevel Calibration of the CORSAIR Polarimeter
+    <em>HINODE-17/IRIS-15/SPHERE-3</em>, Montana State University, Bozeman, Jul 2024.
+    <a href="https://solar.physics.montana.edu/h17_i14_s3/">[conf]</a>
+  </li>
+</ul>
