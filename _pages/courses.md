@@ -10,6 +10,7 @@ nav_order: 2
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title"> Astrophysics</h5>
+    <p class="text-start"> ❃ (ASTRO 201) Astrophysical Fluids & Plasmas </p>
     <p class="text-start"> ❃ (ASTRO 202a) Extragalactic Astronomy and Cosmology I </p>
     <p class="text-start"> ❃ (ASTRO 200) Radiative Processes in Astrophysics </p>
   </div>
@@ -34,6 +35,7 @@ nav_order: 2
   <div class="card-body">
     <h5 class="card-title"> Mathematics</h5>
     <p class="text-start"> ❃ (APMTH 207) Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization </p>
+    <p class="text-start"> ❃ (APMTH 201) Physical Mathematics </p>
     <p class="text-start"> ❃ (21-259) Calculus in Three Dimensions </p>
     <p class="text-start"> ❃ (21-241) Matrices and Linear Transformations </p>
   </div>
@@ -55,6 +57,8 @@ nav_order: 2
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title"> Computer Science</h5>
+    <p class="text-start"> ❃ (APMTH 220) Geometric Methods for Machine Learning </p>
+    <p class="text-start"> ❃ (6.7800) Inference and Information (Audited) </p>
     <p class="text-start"> ❃ (ASTRO 205) Machine Learning for Astrophysicists </p>
     <p class="text-start"> ❃ (APCOMP 297r) Computational Science and Engineering Capstone Project</p>
     <p class="text-start"> ❃ (10-701) Introduction to Machine Learning </p>

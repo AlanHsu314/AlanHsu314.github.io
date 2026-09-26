@@ -2,7 +2,7 @@
 layout: page
 title: Gaming
 description: 
-img: assets/img/genshin/teyvat_elements.jpg
+img: assets/img/genshin/crop.jpg
 permalink: /projects/gaming/
 importance: 4
 category: fun
@@ -10,9 +10,30 @@ category: fun
 
 *"Don't be sorry, be better."* --Kratos
 
-A collection of different video games I have played. Will probably end up being a dump of my genshin speedruns and valorant clutch clips.
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title"> Genshin </h5>
+    <p class="text-start"> ❃ <a href="https://youtu.be/cye3O9XIuA4">Dire Stygian 7.0</a> </p>
+    <p class="text-start"> ❃ <a href="https://youtu.be/bS6ICd9hf5o">Dire Stygian 6.5</a> </p>
+    <p class="text-start"> ❃ <a href="https://youtu.be/sdnfQ9os8Ko">Experimental Field Generator | Navia C6</a> </p>
+  </div>
+</div>
 
-For example, these dmg/screenshot builds:
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title"> バンドリ (GBP) </h5>
+    <p class="text-start"> ❃ <a href="https://youtu.be/uEGUvH6nz3Y">Neo Aspect | Expert | FC</a> </p>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title"> Valorant </h5>
+    <p class="text-start"> ❃ <a href="https://youtu.be/K_tVc_7edC8">Four Years, One Journey</a> </p>
+  </div>
+</div>
+
+Some other dmg/screenshot builds from a while ago:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">

@@ -6,8 +6,8 @@ subtitle: <a href='https://www.cfa.harvard.edu/'>Affiliations</a>.
 
 profile:
   align: right
-  image: fractal_hand.jpg
-  image_circular: true # crops the image to make it circular
+  image: eclipse_diamond.png
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Building A-103</p>
     <p>60 Garden Street</p>
