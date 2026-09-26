@@ -10,11 +10,14 @@
   type: time_table
   contents:
     - title: PhD, Astronomy & Astrophysics
-      institution: Harvard University
+      institution: Harvard University (GSAS)
       year: 2023-now
       description:
-        - Solar Physics, Coronal Observations
-        - Astrophysics Instrumentation
+        - Solar coronal tomography, neural implicit representations
+        - Spectropolarimetry
+    - title: Master of Science, Applied Mathematics
+      institution: Harvard University (SEAS)
+      year: 2023-2026
     - title: B.S, Physics, Robotics
       institution: Carnegie Mellon University
       year: 2019-2023
