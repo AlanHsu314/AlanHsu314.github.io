@@ -20,4 +20,13 @@ related_publications: Hsu_2026_polcal   # bibtex keys from _bibliography/papers.
 
 ## Description
 
-## Results
+CORSAIR is a coronagraph + spectropolarimeter . I've worked on many parts of this instrument throughout my undergraduate and graduate studies under the guidance of my PI Jenna Samra, and I'm happy to see that it finally launched during its qualification flight in Fall 2026!
+
+## Timeline
+
+Summer 2022 - Winter 2022: worked on a realtime autofocusing pipeline for CORSAIR using depth-from-defocus, part of NSF REU at at the Center for Astrophysics, culminating in a presentation at AGU https://ui.adsabs.harvard.edu/abs/2022AGUFMSH25D2077H/abstract
+
+Fall 2023 - Spring 2025: joined Harvard as a graduate student under Jenna Samra, working on polarimeter calibration methodologies for CORSAIR. I eventually developed a Bayesian calibration procedure, validated against synthetic data and prototypes.
+
+Summer 2025 - Summer 2026: applied the Bayesian calibration procedure to the actual flight instrument, in preparation for the qualification flight in Fall 2026.
+ 

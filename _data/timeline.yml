@@ -61,7 +61,14 @@
   category: conference
   title: Arizona Telescope Trip 
   location: Tucson, AZ
-  description: Class Field Trip for Observational Astronomy 
+  description: Class Field Trip for Observational Astronomy
+
+- date: 2022-12-12
+  category: conference
+  title: AGU 
+  location: Chicago, IL
+  link: https://ui.adsabs.harvard.edu/abs/2022AGUFMSH25D2077H/abstract
+  description: Poster on Autofocusing Procedure for CORSAIR
 
 # --- personal academic milestones ---
 - date: 2026-05-28
@@ -91,6 +98,11 @@
 - date: 2023-05-14
   category: milestone
   title: Graduated with B.S. in Physics and Robotics at CMU
+  location: Pittsburgh, PA
+
+- date: 2022-08-15
+  category: milestone
+  title: Completed NSF REU at Center for Astrophysics | Harvard & Smithsonian
   location: Cambridge, MA
 
 # ---- personal events ----

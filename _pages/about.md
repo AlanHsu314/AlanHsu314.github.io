@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! 
+Welcome to my website! I'm a fourth year PhD student in the department of Astronomy at Harvard University, working on coronal spectropolarimetric instrumentation and neural coronal tomography under Jenna Samra. I did my Bachelors in Physics and Robotics at Carnegie Mellon University, where I worked under Hy Trac on generative models for large cosmological simulation, and George Kantor on deep RL for agricultural robotics. My interests largely lie at the intersection of physical-ML, robotics, vision pipelines, and neural rendering.

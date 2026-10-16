@@ -12,20 +12,77 @@
     - title: PhD, Astronomy & Astrophysics
       institution: Harvard University (GSAS)
       year: 2023-now
-      description:
-        - Solar coronal tomography, neural implicit representations
-        - Spectropolarimetry
+      # description:
+      #   - Solar coronal tomography, neural implicit representations
+      #   - Spectropolarimetry
     - title: Master of Science, Applied Mathematics
       institution: Harvard University (SEAS)
       year: 2023-2026
     - title: B.S, Physics, Robotics
       institution: Carnegie Mellon University
       year: 2019-2023
-      description:
-        - Mapping dark matter distributions of galaxy clusters using generative models
-        - Viewpoint Optimization in Agricultural Robotics with deep reinforcement learning
+      # description:
+      #   - Mapping dark matter distributions of galaxy clusters using generative models
+      #   - Viewpoint Optimization in Agricultural Robotics with deep reinforcement learning
 
 - title: Experience
   type: time_table
   contents: 
-    - description: I have no experience
+    - title: Graduate Research Assistant                 # bold heading        (optional)
+      institution: Center for Astrophysics | Harvard & Smithsonian              # line w/ building icon (optional)
+      department: Solar & Stellar X-ray Group (SSXG)     # 2nd line w/ dot icon  (optional)
+      year: 2023-now                                     # left badge          (optional)
+      location: Cambridge, MA                            # under the badge     (optional*)
+      maindescription: "Advisor: Jenna Samra"            # free text/HTML, above bullets (optional)
+      description:                                        # ← indent level 1: bullets
+        - Differentiable neural tomography of the solar corona (CoroNeRF).
+        - Bayesian calibration of the CORSAIR polarimeter   # ← a grouped bullet …
+          # contents:                                               #    indent level 2: sub-bullets
+          #   - Joint posterior over 6 optical-imperfection params via HMC (NUTS, PyMC).
+          #   - Propagated uncertainty through demodulation and Stokes inversion.
+          #   - Calibrated on real flight instrument (flown Fall 2026) 
+        - Jensen-Curvature Bracket for Coronal Line-Ratio Density Inversions
+      linkitems:                                          # optional link buttons
+        - linkname: CoroNeRF
+          link: https://arxiv.org/abs/2609.28868
+        - linkname: CORSAIR Calibration
+          link: https://link.springer.com/article/10.1007/s11207-026-02630-4
+    
+    - title: Undergraduate Researcher
+      institution: Carnegie Mellon University
+      department: Computational Cosmology Group
+      year: 2021-2023
+      location: Pittsburgh, PA
+      maindescription: "Advisor: Hy Trac"
+      description:
+        - Score-based generative models reconstructing galaxy-cluster mass maps.
+      linkitems:                                          
+        - linkname: Diffusion GC
+          link: https://astro.theoj.org/article/142147-reconstructing-galaxy-cluster-mass-maps-using-score-based-generative-modeling
+
+    - title: Undergraduate Researcher
+      institution: Carnegie Mellon University
+      department: Agricultural Robotics Lab
+      year: 2020-2022
+      location: Pittsburgh, PA
+      maindescription: "Advisor: George Kantor"
+      description:
+        - Viewpoint Optimization of Occluded Crops using Deep Reinforcement Learning
+
+    - title: Graduate Teaching Fellow
+      institution: Harvard University
+      department: "Departments: Astronomy, Applied Mathematics"
+      year: "2025"
+      location: Cambridge, MA
+      description:
+        - "[Spring 2025] Machine Learning for Astrophysicists (Professor: Ashley Villar)"
+        - "[Fall 2025] Advanced Scientific Computing: Numerical Methods (Professor: Nick Trefethen)"
+
+    - title: Undergraduate Teaching Assistant
+      institution: Carnegie Mellon University
+      department: School of Computer Science (SCS)
+      year: 2020-2021
+      location: Pittsburgh, PA
+      maindescription: "Professors: David Kosbie, Michael Taylor"
+      description:
+        - Fuundamentals of Programming and Computer Science
