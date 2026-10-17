@@ -24,7 +24,7 @@ Inverting the latent thermodynamic state of the corona from line intensity image
 
 ## Results
 
-Below we show sample joint reconstructions of density (top) and temperature (bottom), by showing latitude-longitude (flattened-shell) plots sweeping through radii.
+Below we show sample joint reconstructions of density (top) and temperature (bottom), by showing latitude-longitude (flattened-shell) plots sweeping through 1.1-4.0 solar radii.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -32,5 +32,5 @@ Below we show sample joint reconstructions of density (top) and temperature (bot
   </div>
 </div>
 <div class="caption">
-  Joint density-temperature reconstruction
+  Joint density-temperature reconstruction at 1.1-4.0 solar radii.
 </div>

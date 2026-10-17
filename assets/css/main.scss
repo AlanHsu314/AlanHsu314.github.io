@@ -18,3 +18,10 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+/* White backing for figures saved with a transparent background,
+   so black axes/text stay legible in dark mode. Apply only to those figures. */
+.white-bg {
+  background-color: #fff;
+  padding: 8px;          /* breathing room so ink isn't flush to the edge */
+}
