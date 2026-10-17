@@ -24,7 +24,7 @@ Inverting the latent thermodynamic state of the corona from line intensity image
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/research/cornerf/coronerf_diagram.png" title="" class="img-fluid rounded z-depth-1 w-100 white-bg" %}
+    {% include figure.html path="assets/img/research/coronerf/coronerf_diagram.png" title="" class="img-fluid rounded z-depth-1 w-100 white-bg" %}
   </div>
 </div>
 <div class="caption">
